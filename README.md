@@ -1,53 +1,63 @@
 # Resume
 
-## Name : Yarra Saritha
+## Yarra Saritha
+==================
 
-**This is Bold**
+### Personal Details
 
-*this is italic*
+-Name:Yarra Saritha<br>
+-Mail Id:sarithayarra1@gmail.com<br>
+-Phone : +91 9494497195 <br>
+-Address : Chillakallu<br>
 
-_this is also italic_
+### Education Details:
 
-<h1>hello</h1>
+**B-Tech**<br>
+-College Name:DVR & Dr.HS MIC College Of Technology<br>
+-Branch : Computer Science Engineering <br>
+-Year Of Study : 2018 -2022<br>
+-CGPA: 9.05 <br>
+-Address : Vijayawada<br>
 
-# Lists
+**Intermediate**<br>
+ -College Name:Jaggayapeta Residential Collge<br>
+-Branch : MPC <br>
+-Year Of Study : 2016 -2018<br>
+-Percentage: 9.15 <br>
+-Address : Jaggayapeta<br>
 
--Ordered List:
-1.Apple
-2.Bannana
+**SSC**<br>
+-School Name:All Saints English Medium High School<br>
+-GPA:9.3 <br>
+-Address : Chillakallu<br>
 
--Unordered list
-* Tress
-* Flowers
-  * Rose
-  * lilly
+### Skills 
 
-# Links:
-  [Google](http://www.gooogle.com)
-  
-  [github](http://github.com)
-  
-# Images
-![name](https://www.bing.com/th?id=OIP.UJQyNZMBkjPfWXfDaRA6GQHaF7&w=148&h=110&c=8&rs=1&qlt=90&dpr=1.25&pid=3.1&rm=2)
+- Python - 80%
 
-![saritha](https://th.bing.com/th/id/OIP.d2QGP-fkX8gwaDyFFGxt2gAAAA?w=158&h=180&c=7&o=5&dpr=1.25&pid=1.7)
+- C Programming     - 70%
 
-# Blockquotes
-> this is bloclquotes
+- Java    - 70%
 
-## inline code
+-  DBMS   -  80%
 
-`Mic college`
+-   R language - 100%
 
-# Table Creating 
-Technology | Percentage
------------| ---------
-Python     |  90%
-Java       |  50%
-C          |  80%
+-  HTML - 90%
 
-:smile:
+### Goals
 
-## Email
+I want to be a Software Developer in `HTML`
 
-(sarithayarra1@gmail.com)
+### HOBBIES
+
+-Readng Books
+
+-listening to music
+
+-playing carroms
+
+  ### Strengths
+   - Hardwork
+   - Logical Thinking
+
