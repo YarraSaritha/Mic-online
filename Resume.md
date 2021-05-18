@@ -31,7 +31,7 @@
 -GPA:9.3 <br>
 -Address : Chillakallu<br>
 
-**Skills**<br>
+**Skills**<br> 
 
 - Python - 80%
 
