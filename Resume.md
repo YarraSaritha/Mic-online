@@ -12,26 +12,26 @@
 
 ### Education Details:
 
-**B-Tech**
+**B-Tech**<br>
 -College Name:DVR & Dr.HS MIC College Of Technology<br>
 -Branch : Computer Science Engineering <br>
 -Year Of Study : 2018 -2022<br>
 -CGPA: 9.05 <br>
 -Address : Vijayawada<br>
 
-**Intermediate**
+**Intermediate**<br>
  -College Name:Jaggayapeta Residential Collge<br>
 -Branch : MPC <br>
 -Year Of Study : 2016 -2018<br>
 -Percentage: 9.15 <br>
 -Address : Jaggayapeta<br>
 
-**SSC**
+**SSC**<br>
 -School Name:All Saints English Medium High School<br>
 -GPA:9.3 <br>
 -Address : Chillakallu<br>
 
-**Skills**
+**Skills**<br>
 
 - Python - 80%
 
